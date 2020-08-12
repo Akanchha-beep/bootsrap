@@ -89,7 +89,9 @@ th {
 
 #image{
     float:left;
-    padding:0px 20px 20px 0px;
+    padding:0px 20px 20px 0px;'
+	width:300px;
+	height:300px;
 }
 
 
